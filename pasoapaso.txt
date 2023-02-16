@@ -1,0 +1,12 @@
+-Luego de crear un nuevo reporitorio en git, con licencia y readme.md.
+nos dirigimos a la terminal en vs y nos situamos en la carpeta donde queremos el proyecto
+"cd 'url'"
+-Luego con el comando "git clone 'url del proyecto en github'", clonamos el proyecto
+
+-Lo siguiente es colocar "code ./ -r" para vincular el editor de codigo con los archivos.
+- Creamos un index.html, script.js y un texto donde escripo el paso a paso.
+-En la terminal preguntamos el estado con "git status", a lo que vemos que hay 3 archivos nuevos.
+- colocamos "git add -A" para agregar estos archivos al repositorio
+- "git commit -m '...'" para comentar lo que estamos haciendo
+-"git push" para guardar.
+
